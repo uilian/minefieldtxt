@@ -1,4 +1,4 @@
-Mine Field Txt - V 0.01
+Minefield Txt - V 0.01
 ============
 
 Text based mine sweeper game, using Java.
